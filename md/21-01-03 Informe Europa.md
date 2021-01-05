@@ -1,9 +1,14 @@
 ---
 title: Informe Europa
-date: 3 de enero de 2021
+author: 3 de enero de 2021
 ---
 
+
+[**Volver al inicio**](../index.html)
+
 ![Poster de la película](https://images-na.ssl-images-amazon.com/images/I/A1h4FB5Bl-L._RI_.jpg)
+
+**Advertencia de spoilers**
 
 Siempre me gustaron las películas de exploración espacial, y esta no es la excepción. Informe Europa es una oda espacial, pero más que todo, una busqueda de vida extraterreste, con tintes de terror y suspenso.
 La ambientación es buena, en especial del satelite Europa, aunque existen errores de CGI.

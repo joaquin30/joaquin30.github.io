@@ -1,9 +1,13 @@
 ---
 title: Informe Europa
-date: 4 de enero de 2021
+author: 4 de enero de 2021
 ---
 
+[**Volver al inicio**](../index.html)
+
 ![Poster de la película](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F45612%2Fmovieposter%2Fsource-code-5315e4e0a2908.jpg&f=1&nofb=1)
+
+**Advertencia de spoilers**
 
 Últimamente he visto varias peliculas de ciencia ficción, y esta no es la excepción.
 Trata sobre un soldado que está en el limbo de la vida y la muerte para servir a un proyecto secreto del gobierno que permite modificar el futuro sin alterar el pasado.
