@@ -1,7 +1,6 @@
 ---
 title: Informe Europa
 author: 3 de enero de 2021
-date: <a href="../index.html">Volver al inicio</a>
 ---
 
 ![Poster de la película](https://images-na.ssl-images-amazon.com/images/I/A1h4FB5Bl-L._RI_.jpg)

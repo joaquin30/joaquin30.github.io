@@ -1,7 +1,6 @@
 ---
 title: Informe Europa
 author: 4 de enero de 2021
-date: <a href="../index.html">Volver al inicio</a>
 ---
 
 ![Poster de la película](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F45612%2Fmovieposter%2Fsource-code-5315e4e0a2908.jpg&f=1&nofb=1)
