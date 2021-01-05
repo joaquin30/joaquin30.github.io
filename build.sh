@@ -1,5 +1,5 @@
 html=$(cat html/header.txt)
-footer=$"</body>\n</html>"
+footer="</body></html>"
 
 for file in md/*
 do
