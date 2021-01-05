@@ -1,5 +1,5 @@
-html=$(cat html/header.html)
-footer='</body></html>'
+html=$(cat html/header.txt)
+footer="</body>\n</html>"
 
 for file in md/*
 do
@@ -11,5 +11,5 @@ do
 done
 
 html+=$footer
-echo $html > index.html
+echo "$html" > index.html
 
