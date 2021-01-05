@@ -1,9 +1,7 @@
 ---
-title: Informe Europa
+title: 8 minutos antes de morir
 author: 4 de enero de 2021
 ---
-
-[**Volver al inicio**](../index.html)
 
 ![Poster de la película](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F45612%2Fmovieposter%2Fsource-code-5315e4e0a2908.jpg&f=1&nofb=1)
 
@@ -21,3 +19,5 @@ Un pequeño error sucede en su segundo viaje, cuando a pesar de que el tren expl
 Tambien la justificación cientifica nunca es concreta, siempre ponen excusas de que es muy complicado para que lo entienda el protagonista, aunque al final dan una cierta explicación.
 
 La verdad es una gran película apta para la familia, aunque talvez no para los más pequeños. Su calificacion es 7.5/10.
+
+[**Volver al inicio**](../index.html)
