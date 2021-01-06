@@ -1,4 +1,4 @@
-html=$(cat html/header.txt)
+html=$(cat header.txt)
 footer="</body></html>"
 
 for file in md/*
