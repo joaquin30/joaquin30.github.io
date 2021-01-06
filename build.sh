@@ -1,14 +1,14 @@
 html=$(cat header.txt)
-footer="</body></html>"
+footer=$"</body>\n</html>"
 
 for file in md/*
 do
 	name=${file:12}
 	name=$(basename "$name" ".md")
-	footer=$(echo "<a href=\"${aux}\">${name}</a><br>${footer}")
-	name=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
-	name=$(echo "$name" | sed -e 's/\s/+/g')
-	pandoc -s "$file" -o "${name}.html"
+	file=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
+	file=$(echo "$name" | sed -e 's/\s/_/g')
+	footer=$(printf "<a href=\"${file}\">${name}</a><br>\n${footer}")
+	pandoc -s "$file" -o "${file}.html"
 done
 
 html+=$footer
