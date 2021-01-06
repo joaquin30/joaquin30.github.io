@@ -22,4 +22,4 @@ La verdad es una gran película apta para la familia, aunque talvez no para los 
 
 ### Calificación: 78/100
 
-[**Volver al inicio**](../index.html)
+[**Volver al inicio**](index.html)

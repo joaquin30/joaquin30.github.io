@@ -1,6 +1,5 @@
 html=$(cat header.txt)
 footer=$"</body>\n</html>"
-
 for file in md/*
 do
 	name=${file:12}

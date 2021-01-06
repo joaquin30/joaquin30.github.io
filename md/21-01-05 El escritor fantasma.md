@@ -11,4 +11,4 @@ Otra Prueba.
 
 ### Calificación: 75/100
 
-[**Volver al inicio**](../index.html)
+[**Volver al inicio**](index.html)

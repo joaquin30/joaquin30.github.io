@@ -13,5 +13,5 @@ Las actuaciones tambien son buenas, pero lo que más destaca en la película es 
 
 ### Calificación: 81/100
 
-[**Volver al inicio**](../index.html)
+[**Volver al inicio**](index.html)
 
