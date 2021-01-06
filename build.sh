@@ -7,7 +7,7 @@ do
 	name=$(basename "$name" ".md")
 	aux=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
 	aux=$(echo "$aux" | sed -e 's/\s/_/g')
-	footer=$(printf "<a href=\"${aux}\">${name}</a><br>\n${footer}")
+	footer=$(printf "<a href=\"${aux}.html\">${name}</a><br>\n${footer}")
 	pandoc -s "$file" -o "${aux}.html"
 done
 
