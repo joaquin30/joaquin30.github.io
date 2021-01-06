@@ -5,9 +5,10 @@ for file in md/*
 do
 	name=${file:12}
 	name=$(basename "$name" ".md")
-	aux=$(echo "html/${name}.html")
 	footer=$(echo "<a href=\"${aux}\">${name}</a><br>${footer}")
-	pandoc -s "$file" -o "$aux"
+	name=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
+	name=$(echo "$name" | sed -e 's/\s/+/g')
+	pandoc -s "$file" -o "${aux}.html"
 done
 
 html+=$footer
