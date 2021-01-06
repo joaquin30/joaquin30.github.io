@@ -3,10 +3,12 @@ title: El escritor fantasma
 author: 5 de enero de 2021
 ---
 
-![Poster de la película](https://m.media-amazon.com/images/M/MV5BMTI3NzMwMzkyNV5BMl5BanBnXkFtZTcwODk4NjQxMw@@._V1_.jpg)
+![](https://m.media-amazon.com/images/M/MV5BMTI3NzMwMzkyNV5BMl5BanBnXkFtZTcwODk4NjQxMw@@._V1_.jpg  "Poster de la película")
 
-**Advertencia de spoilers**
+### Advertencia de spoilers
 
 Otra Prueba.
+
+### Calificación: 75/100
 
 [**Volver al inicio**](../index.html)
