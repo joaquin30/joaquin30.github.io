@@ -1,4 +1,5 @@
-html=$(cat header.txt)
+header=$(cat header.txt)
+header+=$"\n"
 footer=$"</body>\n</html>"
 for file in md/*
 do
@@ -12,6 +13,7 @@ done
 
 html+=$footer
 echo "$html" > index.html
+echo "Todo correcto :)"
 git add --all
 git commit -m "`date`"
 git push -u origin main 
