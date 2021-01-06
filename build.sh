@@ -1,4 +1,5 @@
-header=$(cat header.txt)
+header=$(pandoc -s header.md)
+header=${header::-15}
 footer=$"\n</body>\n</html>"
 for file in md/*
 do
