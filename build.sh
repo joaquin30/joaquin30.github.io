@@ -5,10 +5,10 @@ for file in md/*
 do
 	name=${file:12}
 	name=$(basename "$name" ".md")
-	file=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
-	file=$(echo "$name" | sed -e 's/\s/_/g')
-	footer=$(printf "<a href=\"${file}\">${name}</a><br>\n${footer}")
-	pandoc -s "$file" -o "${file}.html"
+	aux=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
+	aux=$(echo "$aux" | sed -e 's/\s/_/g')
+	footer=$(printf "<a href=\"${aux}\">${name}</a><br>\n${footer}")
+	pandoc -s "$file" -o "${aux}.html"
 done
 
 html+=$footer
