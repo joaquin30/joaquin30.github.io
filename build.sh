@@ -11,9 +11,8 @@ do
 	pandoc -s "$file" -o "${aux}.html"
 done
 
-html+=$footer
+header+=$footer
 echo "$html" > index.html
-echo "Todo correcto :)"
 git add --all
 git commit -m "`date`"
 git push -u origin main 
