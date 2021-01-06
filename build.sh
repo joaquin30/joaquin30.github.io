@@ -8,7 +8,7 @@ do
 	footer=$(echo "<a href=\"${aux}\">${name}</a><br>${footer}")
 	name=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
 	name=$(echo "$name" | sed -e 's/\s/+/g')
-	pandoc -s "$file" -o "${aux}.html"
+	pandoc -s "$file" -o "${name}.html"
 done
 
 html+=$footer
