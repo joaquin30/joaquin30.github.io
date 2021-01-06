@@ -12,7 +12,7 @@ do
 done
 
 header+=$footer
-echo "$html" > index.html
+echo "$header" > index.html
 git add --all
 git commit -m "`date`"
 git push -u origin main 
