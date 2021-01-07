@@ -14,7 +14,7 @@ header=${header::-15}
 footer=$"</body>\n</html>"
 for file in src/md/*
 do
-	name=${file:12}
+	name=${file:16}
 	name=$(basename "$name" ".md")
 	aux=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
 	aux=$(echo "$aux" | sed -e 's/\s/_/g')
