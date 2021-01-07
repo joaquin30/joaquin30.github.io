@@ -9,10 +9,10 @@ Si quieres saber como se hizo este sitio web, puedes verlo en [Github](https://g
 
 ## Top 5 películas de Claro Video:
 
-1. Taxi Driver
-2. Ex_Machina
-3. Psicosis
-4. Un solo hombre
+1. Taxi Driver 
+2. Psicosis
+3. Ex_Machina
+4. A Single Man
 5. Amores Perros
 
 ## Últimas Publicaciones:
