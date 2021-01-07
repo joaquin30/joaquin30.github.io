@@ -3,7 +3,7 @@ title: Predestination
 author: 1 de enero de 2021
 ---
 
-![](,,/img/predestination.webp "Poster de la película")
+![](../img/predestination.webp "Poster de la película")
 
 ### Advertencia de *spoilers*
 
