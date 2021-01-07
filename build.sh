@@ -23,7 +23,7 @@ do
 done
 
 header+=$footer
-echo "$header" > post/index.html
+echo "$header" > index.html
 
 # subir el sitio web
 git add --all
