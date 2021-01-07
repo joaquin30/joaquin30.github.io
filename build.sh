@@ -2,10 +2,10 @@
 for file in src/origin/*
 do
 	name=${file:11}
-	name=$(basename "$name" .png)
-	name=$(basename "$name" .jpg)
-	name=$(basename "$name" .jpeg)
-	convert $file -resize 480 -quality 50 "img/${name}.webp"
+	name=$(basename "$name" ".png")
+	name=$(basename "$name" ".jpg")
+	name=$(basename "$name" ".jpeg")
+	convert "$file" -resize 480 -quality 50 "img/${name}.webp"
 done
 
 # crear los archivos .html
@@ -15,7 +15,7 @@ footer=$"</body>\n</html>"
 for file in src/md/*
 do
 	name=${file:12}
-	name=$(basename "$name" .md)
+	name=$(basename "$name" ".md")
 	aux=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
 	aux=$(echo "$aux" | sed -e 's/\s/_/g')
 	footer=$(printf "<a href=\"post/${aux}.html\">${name}</a><br>\n${footer}")
