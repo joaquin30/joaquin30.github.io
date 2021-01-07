@@ -9,7 +9,8 @@ do
 done
 
 # crear los archivos .html
-header=$(pandoc -s src/header.md --css=buttondown.css)
+rm post/*.html
+header=$(pandoc -s src/header.md --css=style.css)
 header=${header::-15}
 footer=$"</body>\n</html>"
 for file in src/md/*
@@ -19,7 +20,7 @@ do
 	aux=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
 	aux=$(echo "$aux" | sed -e 's/\s/_/g')
 	footer=$(printf "<a href=\"post/${aux}.html\">${name}</a><br>\n${footer}")
-	pandoc -s "$file" -o "post/${aux}.html" --css=buttondown.css
+	pandoc -s "$file" -o "post/${aux}.html" --css=style.css
 done
 
 header+=$footer
