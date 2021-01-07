@@ -10,7 +10,7 @@ done
 
 # crear los archivos .html
 rm post/*.html
-header=$(pandoc -s --css=styling.css -V lang=es -V highlighting-css= --mathjax --to=html5 src/header.md)
+header=$(pandoc -s --css=style.css -V lang=es -V highlighting-css= --mathjax --to=html5 src/header.md)
 header=${header::-15}
 footer=$"</body>\n</html>"
 for file in src/md/*
@@ -20,7 +20,7 @@ do
 	aux=$(echo "$name" | sed -e 's/\(.*\)/\L\1/')
 	aux=$(echo "$aux" | sed -e 's/\s/_/g')
 	footer=$(printf "<a href=\"post/${aux}.html\">${name}</a><br>\n${footer}")
-	pandoc -s --css=../styling.css -V lang=es -V highlighting-css= --mathjax --to=html5 "$file" -o "post/${aux}.html"
+	pandoc -s --css=../style.css -V lang=es -V highlighting-css= --mathjax --to=html5 "$file" -o "post/${aux}.html"
 done
 
 header+=$footer
