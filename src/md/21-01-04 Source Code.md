@@ -3,7 +3,7 @@ title: Source Code
 author: 4 de enero de 2021
 ---
 
-![](src/img/source_code.webp "Poster de la película")
+![](../img/source_code.webp "Poster de la película")
 
 ### Advertencia de *spoilers*
 
@@ -19,4 +19,4 @@ Tambien la justificación cientifica nunca es concreta, siempre ponen excusas de
 
 ### Calificación: 8/10
 
-[**Volver al inicio**](index.html)
+[**Volver al inicio**](../index.html)
