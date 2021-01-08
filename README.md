@@ -9,17 +9,17 @@ El formato de las publicaciones es en Markdown, y el modelo es:
 
 ```
 ---
-title: titulo
-author: fecha
+title: ???
+author: ???
 ---
 
-![](../img/titulo.webp "Poster de la película")
+![](../img/???.webp "Poster de la película")
 
-### Advertencia de spoilers
+### Advertencia de *spoilers*
 
-texto
+???
 
-### Calificación: #/10
+### Calificación: ?/10
 
 [**Volver al inicio**](../index.html)
 ```
