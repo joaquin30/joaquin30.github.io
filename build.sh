@@ -5,7 +5,7 @@ do
 	name=$(basename "$name" ".png")
 	name=$(basename "$name" ".jpg")
 	name=$(basename "$name" ".jpeg")
-	convert "$file" -resize 480 -quality 50 "img/${name}.webp"
+	convert "$file" -resize 480 "img/${name}.webp"
 done
 
 # crear los archivos .html
