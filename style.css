@@ -33,3 +33,16 @@ h1,h2,h3 {
 		max-width: none
 	}
 }
+
+p {
+	text-align: justify
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	max-width: 40em
+}
+
