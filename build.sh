@@ -30,7 +30,7 @@ done
 html_header+=$html_footer
 echo "$html_header" > index.html
 rss_header+=$rss_footer
-echo "$rss_header" > feed.rss
+echo "$rss_header" > rss.xml
 
 
 # subir el sitio web
