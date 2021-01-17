@@ -1,4 +1,4 @@
-# optimizar imagenes
+#!/bin/sh
 for file in src/origin/*
 do
 	name=${file:11}
@@ -8,7 +8,6 @@ do
 	convert "$file" -quality 50 -resize 480 "img/${name}.webp"
 done
 
-# crear los archivos .html
 rm post/*.html
 html_header=$(pandoc -s --css=style.css -V lang=es -V highlighting-css= --mathjax --to=html5 src/header.md)
 html_header=${html_header::-15}
@@ -31,9 +30,6 @@ html_header+=$html_footer
 echo "$html_header" > index.html
 rss_header+=$rss_footer
 echo "$rss_header" > rss.xml
-
-
-# subir el sitio web
 git add --all
 git commit -m "`date`"
 git push -u origin main 
