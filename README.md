@@ -1,13 +1,14 @@
 # Cloroteca (Pagina web)
 
-Dependencias:
+## Dependencias
 
+- POSIX Shell
 - Pandoc
 - Imagemagick
 
-El formato de las publicaciones es en Markdown, y el modelo es:
+## Formato
 
-```
+```markdown
 ---
 title: ???
 author: ???
@@ -23,3 +24,11 @@ author: ???
 
 [**Volver al inicio**](../index.html)
 ```
+
+## Construir el sitio
+
+```
+sh build.sh
+```
+
+No es necesario un servidor para ver los resultados, ya que el sitio no contiene Javascript.
