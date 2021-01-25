@@ -1,13 +1,4 @@
 #!/bin/sh
-for file in src/origin/*
-do
-	name=${file:11}
-	name=$(basename "$name" ".png")
-	name=$(basename "$name" ".jpg")
-	name=$(basename "$name" ".jpeg")
-	convert "$file" -resize 800 "img/${name}.webp"
-done
-
 rm post/*.html
 html_header=$(cat src/header.html)
 html_footer=$(printf "</ul>\n</body>\n</html>")
