@@ -6,7 +6,7 @@ title: The Ghost Writer
 
 ### 5 de enero de 2021
 
-![](../img/the_ghost_writer.webp "Poster de la película")
+![](../img/the_ghost_writer.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 

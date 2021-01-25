@@ -7,7 +7,7 @@ author: 17 de enero de 2021
 
 ### 17 de enero de 2021
 
-![](../img/passengers.webp "Poster de la película")
+![](../img/passengers.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 

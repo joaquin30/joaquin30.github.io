@@ -6,7 +6,7 @@ title: Anna and the King
 
 ### 14 de enero de 2021
 
-![](../img/anna_and_the_king.webp "Poster de la película")
+![](../img/anna_and_the_king.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 

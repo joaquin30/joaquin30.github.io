@@ -6,7 +6,7 @@ title: Source Code
 
 ### 4 de enero de 2021
 
-![](../img/source_code.webp "Poster de la película")
+![](../img/source_code.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 

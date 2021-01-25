@@ -6,7 +6,7 @@ title: A Single Man
 
 ### 11 de enero de 2021
 
-![](../img/a_single_man.webp "Poster de la película")
+![](../img/a_single_man.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 

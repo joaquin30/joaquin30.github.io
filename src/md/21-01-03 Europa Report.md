@@ -6,7 +6,7 @@ title: Europa Report
 
 ### 3 de enero de 2021
 
-![](../img/europa_report.webp "Poster de la película")
+![](../img/europa_report.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 

@@ -6,7 +6,7 @@ title: Amores Perros
 
 ### 30 de diciembre de 2020
 
-![](../img/amores_perros.webp "Poster de la película")
+![](../img/amores_perros.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 
