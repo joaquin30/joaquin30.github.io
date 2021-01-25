@@ -6,7 +6,7 @@ title: Seven Years in Tibet
 
 ### 31 de diciembre de 2020
 
-![](../img/seven_years_in_tibet.webp "Poster de la película")
+![](../img/seven_years_in_tibet.jpg "Poster de la película")
 
 **Advertencia de *spoilers***
 
