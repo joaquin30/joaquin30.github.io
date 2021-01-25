@@ -1,11 +1,14 @@
 ---
 title: A Single Man
-author: 11 de enero de 2021
 ---
+
+## &starf;&starf;&starf;&starf;&starf;
+
+### 11 de enero de 2021
 
 ![](../img/a_single_man.webp "Poster de la película")
 
-### Advertencia de *spoilers*
+**Advertencia de *spoilers***
 
 Triste, solitario, irónico. Así se define nuestro personaje principal.
 Él perdió a su novio, con más de 16 años de relación, en un accidente hace 8 meses.
@@ -18,7 +21,3 @@ Y, a pesar de tener pocos minutos en pantalla, se nos muestran una sincera y fue
 Finalmente, como a pesar de estar destrozado, el amor lo encuentra en uno de sus alumnos.
 Aunque acá flaquea el largometraje, en especial con su final insatisfactorio.
 Pero ese parece ser el mensaje, todo nos golpea de repente, no hay tiempo de prepararse para nada.
-
-### Calificación: 9/10
-
-[**Volver al inicio**](../index.html)

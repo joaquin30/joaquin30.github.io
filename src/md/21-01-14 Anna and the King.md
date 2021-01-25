@@ -1,11 +1,14 @@
 ---
 title: Anna and the King
-author: 14 de enero de 2021
 ---
+
+## &starf;&starf;&starf;&starf;&star;
+
+### 14 de enero de 2021
 
 ![](../img/anna_and_the_king.webp "Poster de la película")
 
-### Advertencia de *spoilers*
+**Advertencia de *spoilers***
 
 *Ana y el rey* es un drama histórico sobre el choque cultural entre una maestra británica encargada de educar a los hijos del rey de Siam.
 Ella está enpedernida en mostrar la cultura inglesa, ya que eso los conectará al mundo, mientras que a pesar de ser considerado inferior, el rey demostrará su inteligencia y también enseñará un par de cosas a la mujer.
@@ -14,8 +17,3 @@ Es fantástico como hacen se relacionan ambos personajes, tienen verdadera quím
 Además, los problemas políticos nos mantendrán pegados a la pantalla.
 
 El final, aunque triste, cumple con su cometido. Es una película hermosa, que nos enseñará varias cosas de la vida.
-
-### Calificación: 9/10
-
-[**Volver al inicio**](../index.html)
-

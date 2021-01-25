@@ -3,9 +3,13 @@ title: Predestination
 author: 1 de enero de 2021
 ---
 
+## &starf;&starf;&starf;&starf;&star;
+
+### 1 de enero de 2021
+
 ![](../img/predestination.webp "Poster de la película")
 
-### Advertencia de *spoilers*
+**Advertencia de *spoilers***
 
 *Predestinación* es una locura.
 Siempre quise ver una película de viajes en el tiempo, y esta de verdad me voló la cabeza.
@@ -18,7 +22,3 @@ Pero todo eso es necesario para entender el final, y si que vale la pena.
 Nada es dejado al azar, todos los pequeños detalles valen para formarnos una idea de que pasará más adelante.
 
 Finalmente otro problema son los típicos agujeros de guión de las películas sobre viajes temporales, como: «¿como se originó el bucle?», o «¿que pasaría si algo fallara en el proceso realizado en la historia?», ya que es muy conveniente como suceden las cosas. Sin embargo, todo esto es dejado a un lado por la sorprendente historia.
-
-### Calificación: 8/10
-
-[**Volver al inicio**](../index.html)
