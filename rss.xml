@@ -1,67 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>La cloroteca</title>
-  <link>https://joaquin30.github.io</link>
-  <description>Críticas sobre películas de Claro Video</description>  <item>
-    <title>Locke</title>
-    <link>https://joaquin30.github.io/post/locke</link>
-    <description>Crítica de la película "Locke"</description>
-  </item>
-  <item>
-    <title>Passengers</title>
-    <link>https://joaquin30.github.io/post/passengers</link>
-    <description>Crítica de la película "Passengers"</description>
-  </item>
-  <item>
-    <title>Anna and the King</title>
-    <link>https://joaquin30.github.io/post/anna_and_the_king</link>
-    <description>Crítica de la película "Anna and the King"</description>
-  </item>
-  <item>
-    <title>A Single Man</title>
-    <link>https://joaquin30.github.io/post/a_single_man</link>
-    <description>Crítica de la película "A Single Man"</description>
-  </item>
-  <item>
-    <title>Eva</title>
-    <link>https://joaquin30.github.io/post/eva</link>
-    <description>Crítica de la película "Eva"</description>
-  </item>
-  <item>
-    <title>The Ghost Writer</title>
-    <link>https://joaquin30.github.io/post/the_ghost_writer</link>
-    <description>Crítica de la película "The Ghost Writer"</description>
-  </item>
-  <item>
-    <title>Source Code</title>
-    <link>https://joaquin30.github.io/post/source_code</link>
-    <description>Crítica de la película "Source Code"</description>
-  </item>
-  <item>
-    <title>Europa Report</title>
-    <link>https://joaquin30.github.io/post/europa_report</link>
-    <description>Crítica de la película "Europa Report"</description>
-  </item>
-  <item>
-    <title>The Next Three Days</title>
-    <link>https://joaquin30.github.io/post/the_next_three_days</link>
-    <description>Crítica de la película "The Next Three Days"</description>
-  </item>
-  <item>
-    <title>Predestination</title>
-    <link>https://joaquin30.github.io/post/predestination</link>
-    <description>Crítica de la película "Predestination"</description>
-  </item>
-  <item>
-    <title>Seven Years in Tibet</title>
-    <link>https://joaquin30.github.io/post/seven_years_in_tibet</link>
-    <description>Crítica de la película "Seven Years in Tibet"</description>
-  </item>
-  <item>
-    <title>Amores Perros</title>
-    <link>https://joaquin30.github.io/post/amores_perros</link>
-    <description>Crítica de la película "Amores Perros"</description>
-  </item>
+<title>La cloroteca</title>
+<link>https://joaquin30.github.io</link>
+<description>Críticas sobre películas de Claro Video</description><item>
+<title>Locke</title>
+<link>https://joaquin30.github.io/post/locke.html</link>
+<description>Crítica de la película "Locke"</description>
+</item>
+<item>
+<title>Passengers</title>
+<link>https://joaquin30.github.io/post/passengers.html</link>
+<description>Crítica de la película "Passengers"</description>
+</item>
+<item>
+<title>Anna and the King</title>
+<link>https://joaquin30.github.io/post/anna_and_the_king.html</link>
+<description>Crítica de la película "Anna and the King"</description>
+</item>
+<item>
+<title>A Single Man</title>
+<link>https://joaquin30.github.io/post/a_single_man.html</link>
+<description>Crítica de la película "A Single Man"</description>
+</item>
+<item>
+<title>Eva</title>
+<link>https://joaquin30.github.io/post/eva.html</link>
+<description>Crítica de la película "Eva"</description>
+</item>
+<item>
+<title>The Ghost Writer</title>
+<link>https://joaquin30.github.io/post/the_ghost_writer.html</link>
+<description>Crítica de la película "The Ghost Writer"</description>
+</item>
+<item>
+<title>Source Code</title>
+<link>https://joaquin30.github.io/post/source_code.html</link>
+<description>Crítica de la película "Source Code"</description>
+</item>
+<item>
+<title>Europa Report</title>
+<link>https://joaquin30.github.io/post/europa_report.html</link>
+<description>Crítica de la película "Europa Report"</description>
+</item>
+<item>
+<title>The Next Three Days</title>
+<link>https://joaquin30.github.io/post/the_next_three_days.html</link>
+<description>Crítica de la película "The Next Three Days"</description>
+</item>
+<item>
+<title>Predestination</title>
+<link>https://joaquin30.github.io/post/predestination.html</link>
+<description>Crítica de la película "Predestination"</description>
+</item>
+<item>
+<title>Seven Years in Tibet</title>
+<link>https://joaquin30.github.io/post/seven_years_in_tibet.html</link>
+<description>Crítica de la película "Seven Years in Tibet"</description>
+</item>
+<item>
+<title>Amores Perros</title>
+<link>https://joaquin30.github.io/post/amores_perros.html</link>
+<description>Crítica de la película "Amores Perros"</description>
+</item>
 </channel>
 </rss>
