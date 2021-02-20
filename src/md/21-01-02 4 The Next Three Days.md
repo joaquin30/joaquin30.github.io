@@ -1,15 +1,3 @@
----
-title: The Next Three Days
----
-
-## &starf;&starf;&starf;&starf;&starf;
-
-### 2 de enero de 2021
-
-![](../img/the_next_three_days.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 Está película verdaderamente me sorprendió, ya que no mucho se espera de una película de acción *hollywoodense*.
 *Los próximos tres días* cuenta la historia de una familia a quienes el mundo se les va abajo ya que la madre es culpada de asesinato.
 Su esposo hará todo lo posible para sacarla de allín ya que el cree que es inocente.

@@ -1,15 +1,3 @@
----
-title: Amores Perros
----
-
-## &starf;&starf;&starf;&starf;&starf;
-
-### 30 de diciembre de 2020
-
-![](../img/amores_perros.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 Esta película te sumerje en la vida de 3 personas, quienes literalmente los perros conectaran sus vidas, y a pesar de ser tan distintos todos sufren del mal del amor.
 De por si la película es muy cruda, en especial la primera hora con las peleas de perros, pero me pareció necesario para representar el mundo de los protagonistas.
 

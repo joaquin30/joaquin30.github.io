@@ -1,15 +1,3 @@
----
-title: Seven Years in Tibet
----
-
-## &starf;&starf;&starf;&starf;&starf;
-
-### 31 de diciembre de 2020
-
-![](../img/seven_years_in_tibet.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 *Siete años en el Tibet* es un drama histórico sobre la vida del alpinista Heinrich Harrer en su paso por la India y el Tibet.
 Esta historia es muy emotiva, ya que toca temas como el choque cultural, nacionalismo, religión y sobre todo la redención.
 

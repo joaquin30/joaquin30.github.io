@@ -1,15 +1,3 @@
----
-title: A Single Man
----
-
-## &starf;&starf;&starf;&starf;&starf;
-
-### 11 de enero de 2021
-
-![](../img/a_single_man.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 Triste, solitario, irónico. Así se define nuestro personaje principal.
 Él perdió a su novio, con más de 16 años de relación, en un accidente hace 8 meses.
 Esto lo destruye, y la película empieza con el que podria ser su último día con vida, ya que se ve como prepara un revolver para suicidarse más tarde.

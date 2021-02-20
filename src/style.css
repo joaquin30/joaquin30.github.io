@@ -5,7 +5,7 @@
   }
 
   hr {
-    border: 1px solid #fff !important
+    border: 1px solid #fff !important;
   }
 
   a:link {
@@ -32,16 +32,16 @@ body {
 }
 
 hr {
-  border: 1px solid #000
+  border: 1px solid #000;
 }
 
 h1,h2,h3 {
   margin: 0;
-  padding: 0
+  padding: 0;
 }
 
 h1 {
-  font-size: 250%
+  font-size: 250%;
 }
 
 p {
@@ -53,18 +53,24 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  max-width: 40em
+  max-width: 40em;
 }
 
 table {
-  width: 100%
+  width: 100%;
 }
 
 td {
-  vertical-align: middle
+  vertical-align: middle;
 }
 
 .right {
-  text-align: right
+  text-align: right;
 }
 
+.centervh {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

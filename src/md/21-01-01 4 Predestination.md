@@ -1,16 +1,3 @@
----
-title: Predestination
-author: 1 de enero de 2021
----
-
-## &starf;&starf;&starf;&starf;&star;
-
-### 1 de enero de 2021
-
-![](../img/predestination.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 *Predestinación* es una locura.
 Siempre quise ver una película de viajes en el tiempo, y esta de verdad me voló la cabeza.
 No quiero dar muchos avances porque cortaría todo el chiste de la película, así que trataré de dar mi opinión sin dar muchos *spoilers*.

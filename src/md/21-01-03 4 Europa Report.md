@@ -1,15 +1,3 @@
----
-title: Europa Report
----
-
-## &starf;&starf;&starf;&starf;&star;
-
-### 3 de enero de 2021
-
-![](../img/europa_report.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 Siempre me gustaron las películas de exploración espacial, y esta no es la excepción. *Informe Europa* es una oda espacial, pero más que todo, una busqueda de vida, con tintes de terror y suspenso.
 
 La ambientación es buena en especial del satélite Europa, aunque existen pequeños errores de CGI.

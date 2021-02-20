@@ -1,15 +1,3 @@
----
-title: The Ghost Writer
----
-
-## &starf;&starf;&starf;&starf;&star;
-
-### 5 de enero de 2021
-
-![](../img/the_ghost_writer.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 Muchas de la películas con misterios a resolver tienen el problema de ser muy obvias, y así pierden el interés del espectador.
 Y aunque a mitad de la película dan un pequeño guiño del final, es tan intrascendente en ese momento que hace pensar: «como no me di cuenta antes».
 Y lo mejor de esta film es su final, ya que el secreto siempre estuvo a la vista, e igual sorprende (al menos a mí).

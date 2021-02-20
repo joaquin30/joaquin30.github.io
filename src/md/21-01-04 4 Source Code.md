@@ -1,15 +1,3 @@
----
-title: Source Code
----
-
-## &starf;&starf;&starf;&starf;&star;
-
-### 4 de enero de 2021
-
-![](../img/source_code.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 *Source Code* (o *8 minutos antes de morir*) trata sobre un soldado que está en el limbo de la vida y la muerte para servir a un proyecto secreto del gobierno que permite modificar el futuro sin alterar el pasado.
 Nuestro protagonista tiene solo ocho minutos en la mente de otra persona para descubrir a un terrorista, y así atraparlo antes de que realize otro atentado.
 

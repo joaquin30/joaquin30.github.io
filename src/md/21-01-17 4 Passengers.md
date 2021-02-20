@@ -1,16 +1,3 @@
----
-title: Passengers
-author: 17 de enero de 2021
----
-
-## &starf;&starf;&starf;&starf;&star;
-
-### 17 de enero de 2021
-
-![](../img/passengers.jpg "Poster de la película")
-
-**Advertencia de *spoilers***
-
 A pesar de la muchas malas críticas que escuche de *Pasajeros*, me animé a verla porque también muchos otros decían que eran infundadas.
 Y es cierto, el planteamiento en grandioso, una persona que despierta de hibernación antes de tiempo en un viaje de más de 120 años, solo que no se aprovecha al 100%.
 
