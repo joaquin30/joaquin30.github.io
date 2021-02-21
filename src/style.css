@@ -1,11 +1,15 @@
 @media (prefers-color-scheme:dark) {
   body {
-    color: #fff;
-    background: #000;
+    color: white;
+    background: black;
+  }
+  
+  header {
+    background: black !important;
   }
 
   hr {
-    border: 1px solid #fff !important;
+    border: 2px solid white !important;
   }
 
   a:link {
@@ -18,7 +22,8 @@
 }
 
 body {
-  margin: 1em auto;
+  margin: auto;
+  padding: 4em 1em 1em 1em;
   max-width: 40em;
   font-size: 1.3em;
   font-family: sans-serif;
@@ -32,7 +37,8 @@ body {
 }
 
 hr {
-  border: 1px solid #000;
+  border: 2px solid #000;
+  margin: 0;
 }
 
 h1,h2,h3 {
@@ -56,21 +62,24 @@ img {
   max-width: 40em;
 }
 
-table {
-  width: 100%;
-}
-
-td {
-  vertical-align: middle;
-}
-
-.right {
-  text-align: right;
-}
-
 .centervh {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100%;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+}
+
+.head {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	padding: 12px 0;
 }

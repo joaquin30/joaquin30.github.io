@@ -39,13 +39,13 @@ create_html()
 <link rel=\"icon\" href=\"../img/favicon.png\" />
 </head>
 <body>
-<table>
-<tr>
-<td><h2>🍿 La cloroteca</h2></td>
-<td class=\"right\"><a href=\"../index.html\">⤶ Volver al inicio</a></td>
-</tr>
-</table>
+<header>
+<div class=\"head\">
+<h2>🍿 La cloroteca</h2>
+<a href=\"../index.html\">⤶ Volver al inicio</a>
+</div>
 <hr />
+</header>
 <h1>$name</h1>
 <h2>$stars</h2>
 <h3>$sdate</h3>
