@@ -35,21 +35,21 @@ create_html()
 <meta charset=\"utf-8\" />
 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
 <title>$name</title>
-<link rel=\"stylesheet\" href=\"../src/style.css\" />
-<link rel=\"icon\" href=\"../img/favicon.png\" />
+<link rel=\"stylesheet\" href=\"/src/style.css\" />
+<link rel=\"icon\" href=\"/img/favicon.png\" />
 </head>
 <body>
 <header>
 <div class=\"head\">
 <h2>🍿 La cloroteca</h2>
-<a href=\"../index.html\">⤶ Volver al inicio</a>
+<a href=\"/\">⤶ Volver al inicio</a>
 </div>
 <hr />
 </header>
 <h1>$name</h1>
 <h2>$stars</h2>
 <h3>$sdate</h3>
-<p><img src=\"../img/$aux.jpg\" title=\"Poster de la película\" /></p>
+<p><img src=\"/img/$aux.jpg\" title=\"Poster de la película\" /></p>
 <p><strong>Advertencia de <em>spoilers</em></strong></p>
 $(pandoc "$1")
 </body>
